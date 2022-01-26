@@ -26,8 +26,9 @@ OPTION 5: Change Job preferences
 
 Please enter your option (ctrl-c to exit):
 ```
-### For a detailes description, please visit: https://medium.com/@johannaschetelig/designing-and-implementing-a-job-database-7b20cd412a21
+For a detailes description, please visit: https://medium.com/@johannaschetelig/designing-and-implementing-a-job-database-7b20cd412a21
 
-### For a live demo, please visit the following link: www.example.com
+
+For a live demo, please visit the following link: www.example.com
 
 
